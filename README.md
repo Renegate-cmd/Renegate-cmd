@@ -5,6 +5,3 @@
 📫 How to reach me: Feel free to connect with me via GitHub or email me at [your email address].  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: As an Executive Chef, I blend my passion for tech with culinary arts, experimenting with smart kitchen gadgets and automation to revolutionize cooking!
-Renegate-cmd/Renegate-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
